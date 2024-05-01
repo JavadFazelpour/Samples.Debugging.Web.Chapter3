@@ -1,0 +1,1 @@
+﻿select sum(price) from Expenses where DateIncurred>='2024-02-01 12:00:00 AM' and DateIncurred<='2024-02-29 12:00:00 AM'
